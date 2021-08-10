@@ -1,0 +1,96 @@
+body{
+    overflow-x: hidden;
+}
+.page1{
+
+    background-color: #264653;
+    padding: 7vh 7vw; 
+}
+.color1{
+    color: white;
+   
+}
+.title3{
+    font-weight: bold;
+
+}
+.text1{
+    font-weight: bold;
+}
+.title1{
+    font-size: 9vh;
+}
+.ty{
+    margin-left: 2vw ;
+    margin-right: 2vw;
+     padding-left: 3vw;
+     padding-right: 3vw;
+}
+ .img1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+} 
+.card-body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.img2{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+   
+}
+.card-group{
+  height: 400px;
+
+   
+  
+}
+.img04{
+    height: 500px;
+    margin-left: 3vw;
+   
+}
+
+.accordion-item{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    
+}
+.img00{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+}
+
+.title10, .text10, .price{
+    font-weight: bold;
+    color: black;
+}
+.title10{
+    font-size: 50px;
+}
+.text10{
+    font-size: 30px;
+}
+.price{
+    font-size: 30px;
+}
+.space{
+    padding: 10vh 12vw;
+
+}
+.space1{
+    padding-right: 10vw;
+}
+
+.carousel01{
+    background-color: #D49B8D;
+}
